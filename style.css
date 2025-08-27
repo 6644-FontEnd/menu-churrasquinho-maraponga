@@ -7,6 +7,7 @@ body {
 
 .menu-container {
     max-width: 1980px;
+    height: 100%;
     margin: 40px auto;
     border: 8px solid #ffff;
     padding: 24px;
