@@ -1,0 +1,19 @@
+{
+  "Bolinhas": [
+    { "name": "Bolinha de Frango", "price": 16.99 },
+    { "name": "Bolinha de carne de Sol", "price": 16.99 },
+    { "name": "Bolinha de Peixe", "price": 16.99 },
+    { "name": "Bolinha calabresa queijo", "price": 16.99},
+    { "name": "Bolinha de arroz", "price": 17.99}
+  ],
+  "Bebidas": [
+    { "name": "Cerveja", "price": 8.00 },
+    { "name": "Refrigerante", "price": 6.00 },
+    { "name": "Água", "price": 3.50 }
+  ],
+  "Acompanhamentos": [
+    { "name": "Farofa", "price": 12.00 },
+    { "name": "Vinagrete", "price": 10.00 },
+    { "name": "Queijo Coalho", "price": 18.00 }
+  ]
+}

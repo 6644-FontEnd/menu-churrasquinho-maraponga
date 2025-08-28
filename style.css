@@ -48,13 +48,17 @@ body {
 
 .produto-nome {
     font-weight: 500;
+    text-transform: uppercase;
+    font-weight: bold;
 }
 
 .produto-preco {
     color: #ebd182;
+    text-transform: uppercase;
+    font-weight: bold;
 }
 
-@media (max-width: 600px) {
+@media (max-width: 400px) {
     .menu-container {
         max-width: 100%;
         padding: 8px;

@@ -3,20 +3,60 @@
 
 <head>
     <meta charset="UTF-8">
-    <title>Menu Simples</title>
+    <title>Menu Churrasquim Maraponga</title>
     <link rel="stylesheet" href="style.css">
 </head>
 
 <body>
     <div class="menu-container">
+        <!-- Logo -->
         <div class="logo-container">
-            <img class="logo" src="./img/logoSemFundo.png" alt="">
+            <img class="logo" src="./img/logoSemFundo.png" alt="Logo Churrasquim Maraponga">
         </div>
+
+        <!-- Menu será injetado aqui -->
         <div id="menu"></div>
     </div>
-    <script src="menu.js"></script>
-</body>
 
-<script src="script.js"></script
+    <script>
+        fetch("menu.json") // busca o arquivo local
+            .then(response => response.json())
+            .then(menu => {
+                const menuDiv = document.getElementById('menu');
+                menuDiv.innerHTML = ""; // Limpa antes de renderizar
+
+                Object.keys(menu).forEach(categoria => {
+                    // título da categoria
+                    const catTitle = document.createElement('h2');
+                    catTitle.textContent = categoria.charAt(0).toUpperCase() + categoria.slice(1);
+                    catTitle.classList.add("menu-title");
+                    menuDiv.appendChild(catTitle);
+
+                    // itens da categoria
+                    menu[categoria].forEach(item => {
+                        const itemDiv = document.createElement('div');
+                        itemDiv.classList.add("produto-item");
+
+                        const nomeSpan = document.createElement('span');
+                        nomeSpan.classList.add("produto-nome");
+                        nomeSpan.textContent = item.name;
+
+                        const precoSpan = document.createElement('span');
+                        precoSpan.classList.add("produto-preco");
+                        precoSpan.textContent = `R$ ${item.price.toFixed(2)}`;
+
+                        itemDiv.appendChild(nomeSpan);
+                        itemDiv.appendChild(precoSpan);
+
+                        menuDiv.appendChild(itemDiv);
+                    });
+                });
+            })
+            .catch(err => {
+                console.error("Erro ao carregar o menu:", err);
+                document.getElementById('menu').innerHTML = "<p style='color: red;'>Erro ao carregar o menu.</p>";
+            });
+    </script>
+</body>
 
 </html>
