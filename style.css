@@ -68,11 +68,11 @@ body {
     font-weight: bold;
 }
 
-@media (max-width: 400px) {
+@media (max-width: 600px) {
     .menu-container {
         max-width: 100%;
-        padding: 8px;
-        margin: 8px;
+        padding: 12px;
+        margin: 12px;
         border-width: 4px;
     }
 
@@ -81,19 +81,18 @@ body {
         margin-bottom: 8px;
     }
 
-    .menu-title,
-    .produto-item {
-        width: 100%;
+    .menu-title {
         font-size: 1em;
-        margin: 0 0 8px 0;
-        flex-direction: column;
-        align-items: flex-start;
+        display: block;
+        /* ocupa linha inteira no celular */
+        margin-bottom: 8px;
     }
 
     .produto-item {
         display: flex;
         flex-direction: column;
-        align-items: flex-start;
+        /* itens empilhados */
+        width: 100%;
         margin-bottom: 12px;
     }
 
