@@ -6,14 +6,40 @@
     { "name": "Bolinha calabresa queijo", "price": 16.99},
     { "name": "Bolinha de arroz", "price": 17.99}
   ],
-  "Bebidas": [
-    { "name": "Cerveja", "price": 8.00 },
-    { "name": "Refrigerante", "price": 6.00 },
-    { "name": "Água", "price": 3.50 }
+  "Pastelzinhos": [
+    { "name": "Pastelzinho queijo", "price": 21.99 },
+    { "name": "Pastelzinho carne do sol", "price": 21.99 },
+    { "name": "Pastelzinho de Frango", "price": 21.99 },
+    { "name": "Pastelzinho calabresa queijo", "price": 21.99 },
+    { "name": "Pastelzinho arraia", "price": 23.99 },
+    { "name": "Pastelzinho de Camarão", "price": 24.99 }
   ],
-  "Acompanhamentos": [
-    { "name": "Farofa", "price": 12.00 },
-    { "name": "Vinagrete", "price": 10.00 },
-    { "name": "Queijo Coalho", "price": 18.00 }
+  "Entradas": [
+    { "name": "batata frita ", "price": 15.99 },
+    { "name": "macaxeira", "price": 15.99 },
+    { "name": "baião", "price": 10.00 },
+    { "name": "torresmo", "price": 10.00 },
+    { "name": "empanado de camarão", "price": 34.99 },
+    { "name": "camarão alho e óleo", "price": 19.90 },
+    { "name": "calabresa com fritas", "price": 25.99 }
+  ],
+  "quinta do caranguejo": [
+    { "name": "03 unidades", "price": 26.99 }
+  ],
+    "aos domingos": [
+    { "name": "panelada", "price": 29.90 }
+  ],
+    "Bebidas": [
+    { "name": "Cerveja buchudinha", "price": 5.00 },
+    { "name": "heineken 330ml long neck", "price": 9.00 },
+    { "name": "stella 330ml long neck", "price": 9.00 },
+    { "name": "skoll beats", "price": 10.00 },
+    { "name": "whisky black white (dose)", "price": 9.00 },
+    { "name": "ypióca (dose)", "price": 3.50 },
+    { "name": "ypióca (copo)", "price": 7.00 },
+    { "name": "Água de côco (jarra)", "price": 12.00 },
+    { "name": "sucos", "price": 7.00 },
+    { "name": "Água com gás", "price": 3.50 },
+    { "name": "Água sem gás", "price": 2.00 }
   ]
 }
