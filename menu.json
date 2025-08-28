@@ -4,7 +4,6 @@
     { "name": "Bolinha de carne de Sol", "price": 16.99 },
     { "name": "Bolinha de Peixe", "price": 16.99 },
     { "name": "Bolinha calabresa queijo", "price": 16.99},
-    { "name": "Bolinha de arroz", "price": 17.99}
   ],
   "Pastelzinhos": [
     { "name": "Pastelzinho queijo", "price": 21.99 },
