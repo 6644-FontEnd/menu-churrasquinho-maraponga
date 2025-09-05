@@ -44,6 +44,6 @@
     { "name": "Coca Cola Zero (lata)", "price": 5.00 },
     { "name": "Sprite (lata)", "price": 5.00 },
     { "name": "Fanta Laranja", "price": 5.00 },
-    { "name": "Fanta Uva", "price": 5.00 },
+    { "name": "Fanta Uva", "price": 5.00 }
   ]
 }
