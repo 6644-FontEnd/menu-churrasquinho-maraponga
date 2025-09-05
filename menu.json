@@ -39,6 +39,11 @@
     { "name": "Água de côco (jarra)", "price": 12.00 },
     { "name": "sucos", "price": 7.00 },
     { "name": "Água com gás", "price": 3.50 },
-    { "name": "Água sem gás", "price": 2.00 }
+    { "name": "Água sem gás", "price": 2.00 },
+    { "name": "Coca Cola (lata)", "price": 5.00 },
+    { "name": "Coca Cola Zero (lata)", "price": 5.00 },
+    { "name": "Sprite (lata)", "price": 5.00 },
+    { "name": "Fanta Laranja", "price": 5.00 },
+    { "name": "Fanta Uva", "price": 5.00 },
   ]
 }
