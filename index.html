@@ -19,7 +19,7 @@
     </div>
 
     <script>
-        fetch("/menu-churrasquinho-maraponga/menu.json?v=" + Date.now())
+        fetch("menu.json?v=" + Date.now())
          // busca o arquivo local
             .then(response => response.json())
             .then(menu => {
