@@ -13,6 +13,15 @@
     { "name": "Pastelzinho arraia", "price": 23.99 },
     { "name": "Pastelzinho de Camarão", "price": 24.99 }
   ],
+    "Chorrascos": [
+    { "name": "Fraudinha", "price": 8.00 },
+    { "name": "Tripa", "price": 16.99 },
+    { "name": "Cupim", "price": 16.99 },
+    { "name": "Porco", "price": 16.99},
+    { "name": "Coração de Frango", "price": 16.99},
+    { "name": "Frango", "price": 16.99},
+    { "name": "Frango com Bacon", "price": 16.99},
+  ],
   "Entradas": [
     { "name": "batata frita ", "price": 15.99 },
     { "name": "macaxeira", "price": 15.99 },
