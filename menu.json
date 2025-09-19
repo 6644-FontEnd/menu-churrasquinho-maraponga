@@ -20,7 +20,7 @@
     { "name": "Porco", "price": 16.99},
     { "name": "Coração de Frango", "price": 16.99},
     { "name": "Frango", "price": 16.99},
-    { "name": "Frango com Bacon", "price": 16.99},
+    { "name": "Frango com Bacon", "price": 16.99}
   ],
   "Entradas": [
     { "name": "batata frita ", "price": 15.99 },
