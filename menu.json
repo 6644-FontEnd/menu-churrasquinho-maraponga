@@ -15,12 +15,12 @@
   ],
     "Churrascos": [
     { "name": "Fraudinha", "price": 8.00 },
-    { "name": "Tripa", "price": 16.99 },
-    { "name": "Cupim", "price": 16.99 },
-    { "name": "Porco", "price": 16.99},
-    { "name": "Coração de Frango", "price": 16.99},
-    { "name": "Frango", "price": 16.99},
-    { "name": "Frango com Bacon", "price": 16.99}
+    { "name": "Tripa", "price": 8.00 },
+    { "name": "Cupim", "price": 8.00 },
+    { "name": "Porco", "price": 8.00},
+    { "name": "Coração de Frango", "price": 8.00},
+    { "name": "Frango", "price": 8.00},
+    { "name": "Frango com Bacon", "price": 8.00}
   ],
   "Entradas": [
     { "name": "batata frita ", "price": 15.99 },
