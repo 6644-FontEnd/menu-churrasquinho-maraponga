@@ -14,7 +14,7 @@
     { "name": "Pastelzinho de Camarão", "price": 24.99 }
   ],
     "Churrascos": [
-    { "name": "Fraudinha", "price": 8.00 },
+    { "name": "Fraldinha", "price": 8.00 },
     { "name": "Tripa", "price": 8.00 },
     { "name": "Cupim", "price": 8.00 },
     { "name": "Porco", "price": 8.00},
@@ -32,7 +32,7 @@
     { "name": "calabresa com fritas", "price": 25.99 }
   ],
   "quinta do caranguejo": [
-    { "name": "03 unidades", "price": 26.99 }
+    { "name": "03 caranguejos", "price": 26.99 }
   ],
     "aos domingos": [
     { "name": "panelada", "price": 29.90 }
