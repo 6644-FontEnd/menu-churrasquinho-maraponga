@@ -51,6 +51,7 @@
     { "name": "calabresa com fritas", "price": 25.99 }
   ],
   "quinta do caranguejo": [
-    { "name": "03 caranguejos", "price": 26.99 }
+    { "name": "03 caranguejos", "price": 26.99 },
+    { "name": "01 caranguejos", "price": 10.00 }
   ]
 }
