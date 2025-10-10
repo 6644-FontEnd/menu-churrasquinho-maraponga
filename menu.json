@@ -1,4 +1,22 @@
 {
+      "Bebidas": [
+    { "name": "Cerveja buchudinha", "price": 5.00 },
+    { "name": "heineken 330ml long neck", "price": 9.00 },
+    { "name": "stella 330ml long neck", "price": 9.00 },
+    { "name": "skoll beats", "price": 10.00 },
+    { "name": "whisky black white (dose)", "price": 9.00 },
+    { "name": "ypióca (dose)", "price": 3.50 },
+    { "name": "ypióca (copo)", "price": 7.00 },
+    { "name": "Água de côco (jarra)", "price": 12.00 },
+    { "name": "sucos", "price": 7.00 },
+    { "name": "Água com gás", "price": 3.50 },
+    { "name": "Água sem gás", "price": 2.00 },
+    { "name": "Coca Cola (600ml)", "price": 8.00 },
+    { "name": "Coca Cola (lata)", "price": 5.00 },
+    { "name": "Sprite (lata)", "price": 5.00 },
+    { "name": "Fanta Laranja", "price": 5.00 },
+    { "name": "Fanta Uva", "price": 5.00 }
+  ],
   "Bolinhas": [
     { "name": "Bolinha de Frango", "price": 16.99 },
     { "name": "Bolinha de carne de Sol", "price": 16.99 },
@@ -26,6 +44,7 @@
     { "name": "batata frita ", "price": 15.99 },
     { "name": "macaxeira", "price": 15.99 },
     { "name": "baião", "price": 10.00 },
+    { "name": "1/2 baião", "price": 6.00 },
     { "name": "torresmo", "price": 10.00 },
     { "name": "empanado de camarão", "price": 34.99 },
     { "name": "camarão alho e óleo", "price": 19.90 },
@@ -33,26 +52,5 @@
   ],
   "quinta do caranguejo": [
     { "name": "03 caranguejos", "price": 26.99 }
-  ],
-    "aos domingos": [
-    { "name": "panelada", "price": 29.90 }
-  ],
-    "Bebidas": [
-    { "name": "Cerveja buchudinha", "price": 5.00 },
-    { "name": "heineken 330ml long neck", "price": 9.00 },
-    { "name": "stella 330ml long neck", "price": 9.00 },
-    { "name": "skoll beats", "price": 10.00 },
-    { "name": "whisky black white (dose)", "price": 9.00 },
-    { "name": "ypióca (dose)", "price": 3.50 },
-    { "name": "ypióca (copo)", "price": 7.00 },
-    { "name": "Água de côco (jarra)", "price": 12.00 },
-    { "name": "sucos", "price": 7.00 },
-    { "name": "Água com gás", "price": 3.50 },
-    { "name": "Água sem gás", "price": 2.00 },
-    { "name": "Coca Cola (600ml)", "price": 8.00 },
-    { "name": "Coca Cola Zero (lata)", "price": 5.00 },
-    { "name": "Sprite (lata)", "price": 5.00 },
-    { "name": "Fanta Laranja", "price": 5.00 },
-    { "name": "Fanta Uva", "price": 5.00 }
   ]
 }
