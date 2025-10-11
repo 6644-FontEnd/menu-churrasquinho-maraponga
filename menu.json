@@ -5,7 +5,7 @@
     { "name": "stella 330ml long neck", "price": 9.00 },
     { "name": "skoll beats", "price": 10.00 },
     { "name": "whisky black white (dose)", "price": 9.00 },
-    { "name": "ypióca (dose)", "price": 3.50 },
+    { "name": "ypióca (dose)", "price": 3.00 },
     { "name": "ypióca (copo)", "price": 7.00 },
     { "name": "Água de côco (jarra)", "price": 12.00 },
     { "name": "sucos", "price": 7.00 },
@@ -42,9 +42,9 @@
     { "name": "Frango com Bacon", "price": 8.00},
     { "name": "asinhas de frango", "price": 8.00},
     { "name": "queijo", "price": 8.00},
-    { "name": "maminha", "price": 8.00}
-    { "name": "medalhao de frango", "price": 10.00}
-    { "name": "medalhao de carne", "price": 10.00} 
+    { "name": "maminha", "price": 8.00},
+    { "name": "medalhao de frango", "price": 10.00},
+    { "name": "medalhao de carne", "price": 10.00}
   ],
   "Entradas": [
     { "name": "batata frita ", "price": 15.99 },
@@ -53,6 +53,7 @@
     { "name": "1/2 baião", "price": 6.00 },
     { "name": "torresmo", "price": 10.00 },
     { "name": "empanado de camarão", "price": 34.99 },
+    { "name": "isca de peixe", "price": 34.99 },
     { "name": "camarão alho e óleo", "price": 19.90 },
     { "name": "calabresa com fritas", "price": 25.99 },
     { "name" : "caldo de carangueijo", "price": 4.00}
