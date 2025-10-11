@@ -15,7 +15,8 @@
     { "name": "Coca Cola (lata)", "price": 5.00 },
     { "name": "Sprite (lata)", "price": 5.00 },
     { "name": "Fanta Laranja", "price": 5.00 },
-    { "name": "Fanta Uva", "price": 5.00 }
+    { "name": "Fanta Uva", "price": 5.00 },
+    { "name": "cajuína de 1L", "price": 10.00}
   ],
   "Bolinhas": [
     { "name": "Bolinha de Frango", "price": 16.99 },
