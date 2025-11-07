@@ -48,7 +48,6 @@
   ],
   "Entradas": [
     { "name": "batata frita ", "price": 15.99 },
-    { "name": "Panelada ", "price": 24.99 },
     { "name": "macaxeira", "price": 15.99 },
     { "name": "baião", "price": 10.00 },
     { "name": "1/2 baião", "price": 6.00 },
@@ -56,7 +55,7 @@
     { "name": "empanado de camarão", "price": 34.99 },
     { "name": "isca de peixe", "price": 34.99 },
     { "name": "camarão alho e óleo", "price": 19.90 },
-    { "name": "calabresa com fritas", "price": 25.99 },
+    { "name": "panelada", "price": 24.99 },
     { "name" : "caldo de carangueijo", "price": 4.00}
   ],
   "quinta do caranguejo": [
