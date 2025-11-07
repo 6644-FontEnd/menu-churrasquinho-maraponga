@@ -12,6 +12,7 @@
     { "name": "Água com gás", "price": 3.50 },
     { "name": "Água sem gás", "price": 2.00 },
     { "name": "Coca Cola (600ml)", "price": 8.00 },
+    { "name": "Coca Cola (ks)", "price": 5.00 },
     { "name": "Coca Cola (lata)", "price": 5.00 },
     { "name": "Sprite (lata)", "price": 5.00 },
     { "name": "Fanta Laranja", "price": 5.00 },
