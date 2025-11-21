@@ -1,8 +1,8 @@
 {
   "Bebidas": [
     { "name": "Cerveja buchudinha", "price": 5.00 },
-    { "name": "heineken 330ml long neck", "price": 9.00 },
-    { "name": "stella 330ml long neck", "price": 9.00 },
+    { "name": "heineken 330ml long neck", "price": 10.00 },
+    { "name": "stella 330ml long neck", "price": 10.00 },
     { "name": "skoll beats", "price": 10.00 },
     { "name": "whisky black white (dose)", "price": 9.00 },
     { "name": "ypióca (dose)", "price": 3.50 },
